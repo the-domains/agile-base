@@ -2,6 +2,7 @@ name: 'agile:base'
 favicon: null
 layout_spectrum: 0.6440023968461901
 typography_spectrum: 0.8760780182201415
+title: 'agile:base - business agility through technology'
 cta:
   domain: null
   bucket: null
