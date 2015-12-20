@@ -6,23 +6,24 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-20T23:17:57.448Z'
-dateModified: '2015-12-20T23:17:52.306Z'
+datePublished: '2015-12-20T23:19:08.223Z'
+dateModified: '2015-12-20T23:19:00.390Z'
 title: 'The agile:base platform'
 author: []
+sourcePath: _posts/2015-12-20-the-agilebase-platform.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-20-the-agilebase-platform.md
-published: true
 url: the-agilebase-platform/index.html
 _type: Article
 
 ---
 # The agile:base platform
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/483cb1c0093d62a13cb7ed47807fe7b625d34202.png)
 
 AgileBase is our flexible cloud-based platform - fast, friendly and flexible.
 
