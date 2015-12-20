@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-20T22:03:11.391Z'
-dateModified: '2015-12-20T22:00:37.622Z'
+datePublished: '2015-12-20T23:17:57.448Z'
+dateModified: '2015-12-20T23:17:52.306Z'
 title: 'The agile:base platform'
 author: []
 authors: []
