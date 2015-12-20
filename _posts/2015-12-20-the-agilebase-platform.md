@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-20T23:19:08.223Z'
-dateModified: '2015-12-20T23:19:00.390Z'
+datePublished: '2015-12-20T23:25:35.217Z'
+dateModified: '2015-12-20T23:25:32.003Z'
 title: 'The agile:base platform'
 author: []
 sourcePath: _posts/2015-12-20-the-agilebase-platform.md
