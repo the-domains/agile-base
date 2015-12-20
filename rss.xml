@@ -4,8 +4,15 @@
         <description><![CDATA[agile:base - business agility through technology]]></description>
         <link>https://thegrid.ai/agile-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 22:03:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2015 22:08:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/agile-base/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Technology]]></title>
+            <description><![CDATA[<article><h1>Technology</h1><p>How have we built a platform which is so fast, flexible, usable and affordable? By standing on the shoulders of the some of the giants of the open source world.</p></article>]]></description>
+            <link>https://thegrid.ai/agile-base/technology/index.html</link>
+            <guid isPermaLink="false">ba656d8a-2e84-4eec-88fd-f048cf074dec</guid>
+            <pubDate>Sun, 20 Dec 2015 22:08:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The agile:base platform]]></title>
             <description><![CDATA[<article><h1>The agile:base platform</h1><p>AgileBase is our flexible cloud-based platform - fast, friendly and flexible.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fe38fb740abeee239461cee6ad4b1026cb42f59.png"></article>]]></description>
