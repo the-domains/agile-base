@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-20T23:25:35.217Z'
-dateModified: '2015-12-20T23:25:32.003Z'
+datePublished: '2015-12-20T23:28:23.173Z'
+dateModified: '2015-12-20T23:28:19.718Z'
 title: 'The agile:base platform'
 author: []
 sourcePath: _posts/2015-12-20-the-agilebase-platform.md
@@ -46,6 +46,7 @@ Build bespoke software to meet your current and future business needs
 **In short, agile:base delivers business agility through technology.**
 
 # How it works
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e30a6c40-3649-46f0-a8ad-341e6470fad5.png)
 
 **Powerful software engine**
 
