@@ -4,8 +4,15 @@
         <description><![CDATA[agile:base - business agility through technology]]></description>
         <link>https://thegrid.ai/agile-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 22:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2015 22:27:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/agile-base/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact Us]]></title>
+            <description><![CDATA[<article><h1>Contact Us</h1><p>agileBase provide cloud business software, tailored to fit individual businesses. It has been built from the ground up to be fast to use, and flexible to change.</p></article>]]></description>
+            <link>https://thegrid.ai/agile-base/contact-us/index.html</link>
+            <guid isPermaLink="false">53202a4e-a909-4159-9ef1-d054a627784b</guid>
+            <pubDate>Sun, 20 Dec 2015 22:27:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Focus on friendliness]]></title>
             <description><![CDATA[<article><h1>Focus on friendliness</h1><p>Our unique interface means not only does it look great and enjoyable to use, we can develop tailored software to fit you, as you speak.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e8cac9ae28a4ccf76f01990237297ec546b67dc.png"></article>]]></description>
