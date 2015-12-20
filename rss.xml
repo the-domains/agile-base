@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[agile:base]]></title>
-        <description><![CDATA[agile:base]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[agile:base - business agility through technology]]></title>
+        <description><![CDATA[agile:base - business agility through technology]]></description>
+        <link>https://thegrid.ai/agile-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 23:08:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Dec 2015 11:31:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/agile-base/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[agileBase = fast + friendly + flexible]]></title>
+            <description><![CDATA[<article><h1>agileBase = fast + friendly + flexible</h1><p>The agilebase equation - fast, flexible, affordable, usable</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Bdbjy0_AhVk</link>
+            <guid isPermaLink="false">f0e7ffc3-ee89-4348-a01f-5b8b89a23a44</guid>
+            <pubDate>Sun, 20 Dec 2015 11:30:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined8c8e6953-6a84-4e86-88b4-e47d4d70b557/index.html</link>
+            <description><![CDATA[<p>https://www.youtube.com/watch?v=Bdbjy0_AhVk</p>]]></description>
+            <link>https://thegrid.ai/agile-base/8c8e6953-6a84-4e86-88b4-e47d4d70b557/index.html</link>
             <guid isPermaLink="false">8c8e6953-6a84-4e86-88b4-e47d4d70b557</guid>
             <pubDate>Fri, 18 Dec 2015 23:08:03 GMT</pubDate>
         </item>
