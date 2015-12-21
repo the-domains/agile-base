@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-20T23:28:23.173Z'
-dateModified: '2015-12-20T23:28:19.718Z'
+datePublished: '2015-12-21T21:00:08.429Z'
+dateModified: '2015-12-21T21:00:05.628Z'
 title: 'The agile:base platform'
 author: []
 sourcePath: _posts/2015-12-20-the-agilebase-platform.md
@@ -23,13 +23,14 @@ _type: Article
 
 ---
 # The agile:base platform
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/483cb1c0093d62a13cb7ed47807fe7b625d34202.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb3a5e55-5357-495e-afec-a85be8a14ca9.png)
 
 AgileBase is our flexible cloud-based platform - fast, friendly and flexible.
 
 It provides a massively scalable foundation on which to rapidly build enterprise-class software. There are 26 man-years of development baked in and there's not a lot it can't do.
 
 In fact, it's pretty unique and very powerful.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/483cb1c0093d62a13cb7ed47807fe7b625d34202.png)
 
 # Fast
 
