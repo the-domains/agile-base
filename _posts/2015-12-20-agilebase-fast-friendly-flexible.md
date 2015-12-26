@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=Bdbjy0_AhVk'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - duration
   - agilebase
@@ -16,9 +16,9 @@ keywords:
   - lewis
   - agilebase2013
   - google
-description: 'The agilebase equation - fast, flexible, friendly'
-datePublished: '2015-12-20T11:30:47.528Z'
-dateModified: '2015-12-20T11:30:36.662Z'
+description: The agilebase equation
+datePublished: '2015-12-26T19:45:17.779Z'
+dateModified: '2015-12-26T19:45:15.474Z'
 author:
   - name: Oliver Kohll
     url: 'https://www.youtube.com/user/okohll'
@@ -36,14 +36,14 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=Bdbjy0_AhVk&feature=applinks'
     type: web
 title: agileBase = fast + friendly + flexible
+sourcePath: _posts/2015-12-20-agilebase-fast-friendly-flexible.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2015-12-20-agilebase-fast-friendly-flexible.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
