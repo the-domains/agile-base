@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-26T18:23:10.481Z'
-dateModified: '2015-12-26T18:22:58.473Z'
+datePublished: '2015-12-26T19:44:04.952Z'
+dateModified: '2015-12-26T19:43:32.335Z'
 title: Customers
 author: []
+sourcePath: _posts/2015-12-26-customers.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-26-customers.md
-published: true
 url: customers/index.html
 _type: Article
 
