@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-20T23:15:34.854Z'
-dateModified: '2015-12-20T23:15:30.822Z'
+datePublished: '2015-12-26T18:07:34.043Z'
+dateModified: '2015-12-26T18:07:31.420Z'
 title: Enterprise Class Security
 author: []
 sourcePath: _posts/2015-12-20-enterprise-class-security.md
