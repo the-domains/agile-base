@@ -4,7 +4,7 @@
         <description><![CDATA[agile:base - business agility through technology]]></description>
         <link>https://thegrid.ai/agile-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 19:45:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Dec 2015 19:55:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/agile-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[agileBase = fast + friendly + flexible]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/agile-base/the-agilebase-platform/index.html</link>
             <guid isPermaLink="false">19d3ecf8-efa6-4e75-ae0e-cc825e4c02c7</guid>
             <pubDate>Sat, 26 Dec 2015 18:06:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[People]]></title>
+            <description><![CDATA[<article><h1>People</h1><p>The agileChilli management team</p></article>]]></description>
+            <link>https://thegrid.ai/agile-base/people/index.html</link>
+            <guid isPermaLink="false">5bd8d9a1-4019-44af-b0e2-4dd6c9ed5d97</guid>
+            <pubDate>Sat, 26 Dec 2015 19:55:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Customers]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/agile-base/pricing/index.html</link>
             <guid isPermaLink="false">21b2dda4-2f30-4c62-aa35-6575279a651e</guid>
             <pubDate>Sat, 26 Dec 2015 11:55:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contact Us]]></title>
-            <description><![CDATA[<article><h1>Contact Us</h1><p>agileBase provide cloud business software, tailored to fit individual businesses. It has been built from the ground up to be fast to use, and flexible to change.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de26fd9d962af840b65b9d3e39f0813c2f5325ee.png"></article>]]></description>
-            <link>https://thegrid.ai/agile-base/contact-us/index.html</link>
-            <guid isPermaLink="false">53202a4e-a909-4159-9ef1-d054a627784b</guid>
-            <pubDate>Sun, 20 Dec 2015 23:17:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
