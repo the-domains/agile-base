@@ -4,7 +4,7 @@
         <description><![CDATA[agile:base - business agility through technology]]></description>
         <link>https://thegrid.ai/agile-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 11:55:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Dec 2015 14:52:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/agile-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The agile:base platform]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/agile-base/the-agilebase-platform/index.html</link>
             <guid isPermaLink="false">19d3ecf8-efa6-4e75-ae0e-cc825e4c02c7</guid>
             <pubDate>Mon, 21 Dec 2015 21:00:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Company]]></title>
+            <description><![CDATA[<article><h1>Company</h1><p>agile:base is owned by agileChilli Ltd. The company was formed in 2015 by the 'merger by acquisition' of Chilli Consulting into agileBase Ltd.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cbec38a0169bd707665021d4b60279c8adccd3a4.png"></article>]]></description>
+            <link>https://thegrid.ai/agile-base/company/index.html</link>
+            <guid isPermaLink="false">736422bf-f4d3-4c80-ba2a-c4e41265bdaf</guid>
+            <pubDate>Sat, 26 Dec 2015 14:52:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/agile-base/technology/index.html</link>
             <guid isPermaLink="false">ba656d8a-2e84-4eec-88fd-f048cf074dec</guid>
             <pubDate>Sun, 20 Dec 2015 23:16:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[agileBase = fast + friendly + flexible]]></title>
-            <description><![CDATA[<article><h1>agileBase = fast + friendly + flexible</h1><p>The agilebase equation - fast, flexible, affordable, usable</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab6614430774b1c11bc5e82817110e85876eddcf.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=Bdbjy0_AhVk</link>
-            <guid isPermaLink="false">f0e7ffc3-ee89-4348-a01f-5b8b89a23a44</guid>
-            <pubDate>Sun, 20 Dec 2015 11:30:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
