@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-21T21:00:08.429Z'
-dateModified: '2015-12-21T21:00:05.628Z'
+datePublished: '2015-12-26T18:06:27.233Z'
+dateModified: '2015-12-26T18:06:24.184Z'
 title: 'The agile:base platform'
 author: []
 sourcePath: _posts/2015-12-20-the-agilebase-platform.md
@@ -30,7 +30,7 @@ AgileBase is our flexible cloud-based platform - fast, friendly and flexible.
 It provides a massively scalable foundation on which to rapidly build enterprise-class software. There are 26 man-years of development baked in and there's not a lot it can't do.
 
 In fact, it's pretty unique and very powerful.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/483cb1c0093d62a13cb7ed47807fe7b625d34202.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfa39db97c3db10b87fcaaa3a4ffa4a162c7538e.png)
 
 # Fast
 
@@ -64,6 +64,6 @@ Avoid the long phase of requirements definition and jump straight in. Decide on 
 **Customisable software, today**
 
 Tailored software means it's shaped around the way you do business. No unused fields, no unhelpful reports. Focus on what matters, and never again will your team have to work around software designed for somebody else. Organise the data you need, the way you want, and capture it all seamlessly in agileBase
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0889e91-3fda-4af1-a457-32cdff61b404.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fe38fb740abeee239461cee6ad4b1026cb42f59.png)
 
 [0]: www.postgresql.org
