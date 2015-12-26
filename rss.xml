@@ -4,7 +4,7 @@
         <description><![CDATA[agile:base - business agility through technology]]></description>
         <link>https://thegrid.ai/agile-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 18:08:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Dec 2015 18:23:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/agile-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The agile:base platform]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/agile-base/the-agilebase-platform/index.html</link>
             <guid isPermaLink="false">19d3ecf8-efa6-4e75-ae0e-cc825e4c02c7</guid>
             <pubDate>Sat, 26 Dec 2015 18:06:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Customers]]></title>
+            <description><![CDATA[<article><h1>Customers</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99a29c983d581b31b705f8250c3cfefe5a9655ff.jpg"></article>]]></description>
+            <link>https://thegrid.ai/agile-base/customers/index.html</link>
+            <guid isPermaLink="false">ea8eb6b5-960c-4901-a7a9-757271c0c70b</guid>
+            <pubDate>Sat, 26 Dec 2015 18:23:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Company]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/agile-base/focus-on-friendliness/index.html</link>
             <guid isPermaLink="false">8529d81e-f68e-4456-bd0f-cfe6c3a61590</guid>
             <pubDate>Sun, 20 Dec 2015 22:22:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Technology]]></title>
-            <description><![CDATA[<article><h1>Technology</h1><p>How have we built a platform which is so fast, flexible, usable and affordable? By standing on the shoulders of the some of the giants of the open source world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2a46f0ae75d6f020443142486b8ce30d309c328.png"></article>]]></description>
-            <link>https://thegrid.ai/agile-base/technology/index.html</link>
-            <guid isPermaLink="false">ba656d8a-2e84-4eec-88fd-f048cf074dec</guid>
-            <pubDate>Sun, 20 Dec 2015 23:16:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
