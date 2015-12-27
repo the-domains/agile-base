@@ -16,8 +16,8 @@ keywords:
   - agile
   - study
 description: Uploaded by Oliver Kohll on 2015-05-07.
-datePublished: '2015-12-26T18:08:20.843Z'
-dateModified: '2015-12-26T18:08:17.540Z'
+datePublished: '2015-12-27T11:57:05.678Z'
+dateModified: '2015-12-26T19:38:09.376Z'
 author:
   - name: Oliver Kohll
     url: 'https://www.youtube.com/user/okohll'
