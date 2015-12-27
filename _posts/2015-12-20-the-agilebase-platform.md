@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-26T18:06:27.233Z'
-dateModified: '2015-12-26T18:06:24.184Z'
+datePublished: '2015-12-27T11:23:44.523Z'
+dateModified: '2015-12-27T11:23:35.207Z'
 title: 'The agile:base platform'
 author: []
 sourcePath: _posts/2015-12-20-the-agilebase-platform.md
@@ -64,6 +64,5 @@ Avoid the long phase of requirements definition and jump straight in. Decide on 
 **Customisable software, today**
 
 Tailored software means it's shaped around the way you do business. No unused fields, no unhelpful reports. Focus on what matters, and never again will your team have to work around software designed for somebody else. Organise the data you need, the way you want, and capture it all seamlessly in agileBase
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fe38fb740abeee239461cee6ad4b1026cb42f59.png)
 
 [0]: www.postgresql.org
