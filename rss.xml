@@ -4,8 +4,15 @@
         <description><![CDATA[agile:base - business agility through technology]]></description>
         <link>https://thegrid.ai/agile-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 11:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Dec 2015 11:55:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/agile-base/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Products]]></title>
+            <description><![CDATA[<article><h1>Products</h1><p>agile:base has a number of applications specifically tailored to these types of company:</p></article>]]></description>
+            <link>https://thegrid.ai/agile-base/products/index.html</link>
+            <guid isPermaLink="false">877739e8-11c9-44dd-a0d0-d54520446ce2</guid>
+            <pubDate>Sun, 27 Dec 2015 11:54:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[agileBase = fast + friendly + flexible]]></title>
             <description><![CDATA[<article><h1>agileBase = fast + friendly + flexible</h1><p>The agilebase equation</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab6614430774b1c11bc5e82817110e85876eddcf.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/agile-base/enterprise-class-security/index.html</link>
             <guid isPermaLink="false">02781aeb-2311-4c2f-b785-99e9ae806e5b</guid>
             <pubDate>Sat, 26 Dec 2015 18:07:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pricing]]></title>
-            <description><![CDATA[<article><h1>Pricing</h1><p>Affordable and transparent pricing that means you only pay for what you need. Choose from a standard package:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a62e8eaffe90c8bb17d5f1da1e5598cc659e10d.png"></article>]]></description>
-            <link>https://thegrid.ai/agile-base/pricing/index.html</link>
-            <guid isPermaLink="false">21b2dda4-2f30-4c62-aa35-6575279a651e</guid>
-            <pubDate>Sat, 26 Dec 2015 11:55:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
