@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-27T11:23:44.523Z'
-dateModified: '2015-12-27T11:23:35.207Z'
+datePublished: '2015-12-27T16:41:01.735Z'
+dateModified: '2015-12-27T16:40:59.514Z'
 title: 'The agile:base platform'
 author: []
 sourcePath: _posts/2015-12-20-the-agilebase-platform.md
@@ -23,14 +23,14 @@ _type: Article
 
 ---
 # The agile:base platform
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb3a5e55-5357-495e-afec-a85be8a14ca9.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/53cb2250269ae424a242176b92a8c5020d9630d5.png)
 
 AgileBase is our flexible cloud-based platform - fast, friendly and flexible.
 
 It provides a massively scalable foundation on which to rapidly build enterprise-class software. There are 26 man-years of development baked in and there's not a lot it can't do.
 
 In fact, it's pretty unique and very powerful.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfa39db97c3db10b87fcaaa3a4ffa4a162c7538e.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/382681658902a9c5a49f947a34e4b29e176a0113.png)
 
 # Fast
 
@@ -63,6 +63,6 @@ Avoid the long phase of requirements definition and jump straight in. Decide on 
 
 **Customisable software, today**
 
-Tailored software means it's shaped around the way you do business. No unused fields, no unhelpful reports. Focus on what matters, and never again will your team have to work around software designed for somebody else. Organise the data you need, the way you want, and capture it all seamlessly in agileBase
+Tailored software means it's shaped around the way you do business. No unused fields, no unhelpful reports. Focus on what matters, and never again will your team have to work around software designed for somebody else. Organise the data you need, the way you want, and capture it all seamlessly in agileBase.
 
 [0]: www.postgresql.org
