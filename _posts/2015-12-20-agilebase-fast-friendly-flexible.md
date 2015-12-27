@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=Bdbjy0_AhVk'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - duration
   - agilebase
@@ -17,8 +17,8 @@ keywords:
   - agilebase2013
   - google
 description: The agilebase equation
-datePublished: '2015-12-26T19:45:17.779Z'
-dateModified: '2015-12-26T19:45:15.474Z'
+datePublished: '2015-12-27T11:27:32.913Z'
+dateModified: '2015-12-27T11:27:21.980Z'
 author:
   - name: Oliver Kohll
     url: 'https://www.youtube.com/user/okohll'
