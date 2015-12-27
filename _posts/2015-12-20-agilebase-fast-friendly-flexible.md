@@ -17,8 +17,8 @@ keywords:
   - agilebase2013
   - google
 description: The agilebase equation
-datePublished: '2015-12-27T11:27:32.913Z'
-dateModified: '2015-12-27T11:27:21.980Z'
+datePublished: '2015-12-27T16:49:42.547Z'
+dateModified: '2015-12-27T16:49:35.953Z'
 author:
   - name: Oliver Kohll
     url: 'https://www.youtube.com/user/okohll'
