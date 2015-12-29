@@ -4,11 +4,18 @@
         <description><![CDATA[agile:base - business agility through technology]]></description>
         <link>https://thegrid.ai/agile-base/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 17:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Dec 2015 12:21:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/agile-base/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Focus on friendliness]]></title>
+            <description><![CDATA[<article><h1>Focus on friendliness</h1><p>Our unique interface means not only does it look great and enjoyable to use, we can develop tailored software to fit you, as you speak.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e8cac9ae28a4ccf76f01990237297ec546b67dc.png"></article>]]></description>
+            <link>https://thegrid.ai/agile-base/focus-on-friendliness/index.html</link>
+            <guid isPermaLink="false">8529d81e-f68e-4456-bd0f-cfe6c3a61590</guid>
+            <pubDate>Tue, 29 Dec 2015 12:21:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Products]]></title>
-            <description><![CDATA[<article><h1>Products</h1><p>Applications can be build on agile:base for a range of industries</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8ce2785-1fe3-48a9-8c79-29c1601f3615.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Products</h1><p>Applications can be build on agile:base for a range of industries</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/373f5793397bafd3a902c6852d42c35aed5f94e8.png"></article>]]></description>
             <link>https://thegrid.ai/agile-base/products/index.html</link>
             <guid isPermaLink="false">877739e8-11c9-44dd-a0d0-d54520446ce2</guid>
             <pubDate>Sun, 27 Dec 2015 17:13:29 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/agile-base/partners/index.html</link>
             <guid isPermaLink="false">5ea006a8-9dac-4a06-b8a1-af14d8e38730</guid>
             <pubDate>Sat, 26 Dec 2015 11:41:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Enterprise Class Security]]></title>
-            <description><![CDATA[<article><h1>Enterprise Class Security</h1><p>Two-factor authentication using your phoneImmediate notifications of logins from new geographic areas or on new devices Full access and data modification audit trailsComprehensive roles and privileges systemPassword encryption in the databaseFirewall, intrusion detection and operating system security</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac7a52884deabc583b7384101ce3faa795a81dc7.jpg"></article>]]></description>
-            <link>https://thegrid.ai/agile-base/enterprise-class-security/index.html</link>
-            <guid isPermaLink="false">02781aeb-2311-4c2f-b785-99e9ae806e5b</guid>
-            <pubDate>Sat, 26 Dec 2015 18:07:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
